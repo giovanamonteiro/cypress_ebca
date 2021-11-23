@@ -1,0 +1,26 @@
+{
+  "name": "cypress_ebca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanamonteiro/cypress_ebca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanamonteiro/cypress_ebca/issues"
+  },
+  "homepage": "https://github.com/giovanamonteiro/cypress_ebca#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
